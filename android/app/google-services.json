@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967599913982",
+    "project_id": "noteapp-9876",
+    "storage_bucket": "noteapp-9876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967599913982:android:d18402560e06bcac6e9eaf",
+        "android_client_info": {
+          "package_name": "com.nitha.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvS24TjcqRswIpyIuK4ZZGBnMKK1HVfvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
